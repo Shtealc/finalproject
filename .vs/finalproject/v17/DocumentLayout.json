@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\finalproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE1C004-D947-15D3-F006-DEBDF5FDB721}|Assembly-CSharp.csproj|c:\\users\\shawn\\onedrive\\documents\\github\\finalproject\\assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE1C004-D947-15D3-F006-DEBDF5FDB721}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE1C004-D947-15D3-F006-DEBDF5FDB721}|Assembly-CSharp.csproj|C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\finalproject\\assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE1C004-D947-15D3-F006-DEBDF5FDB721}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE1C004-D947-15D3-F006-DEBDF5FDB721}|Assembly-CSharp.csproj|C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\finalproject\\assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE1C004-D947-15D3-F006-DEBDF5FDB721}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE1C004-D947-15D3-F006-DEBDF5FDB721}|Assembly-CSharp.csproj|C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\finalproject\\assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\lightflicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE1C004-D947-15D3-F006-DEBDF5FDB721}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\lightflicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "timer.cs",
+              "DocumentMoniker": "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\finalproject\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\timer.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\timer.cs",
+              "ToolTip": "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\finalproject\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\timer.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\timer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:11:53.281Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameEnding.cs",
+              "DocumentMoniker": "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\finalproject\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "ToolTip": "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\finalproject\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:54:14.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\finalproject\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\Observer.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\Observer.cs",
+              "ToolTip": "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\finalproject\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\Observer.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\Observer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:46:03.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LightFlicker.cs",
+              "DocumentMoniker": "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\finalproject\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\LightFlicker.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\LightFlicker.cs",
+              "ToolTip": "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\finalproject\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\LightFlicker.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\LightFlicker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:58:13.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
